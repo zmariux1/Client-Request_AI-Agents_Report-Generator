@@ -23,6 +23,14 @@ Dependencies:
 
 You will also need npm i crewai
 
-Pasii pentru antrenarea AI-ului:
-- Am folosit agenti, pe care i-am definit printr-un scop si un backstory.
-- iar apoi am creat Task-uri pentru Agenti, cu o descriere si un expected outcome.
+Steps for AI integration: 
+- I used agents, which we defined by a goal and a backstory. 
+- and then I created Tasks for Agents, with a description and an expected outcome.
+- I used the first example (Oferta - Test 1.docx) as a tamplate for the description of the Tasks and Agents.
+     I. Purpose of the document:
+     II. Structure proposal:
+     III. Additional suggestions:
+     IV. Billing and implementation time (plus the number of developers, and what will be the result.)
+
+
+
